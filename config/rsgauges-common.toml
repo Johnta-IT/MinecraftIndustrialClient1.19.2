@@ -17,7 +17,7 @@
 		with_experimental = false
 		#Defines how far you or a link source switch can be away from the target to activate it. The value 0 means 'no limitation',  as long as the target chunk is loaded.
 		#Range: 0 ~ 64
-		max_switch_linking_distance = 48
+		max_switch_linking_distance = 0
 		#Comma separated list of items names that can be used alter configurable blocks of this mod. This applies when the display side of the block is right click (activated) with the item in the main hand.
 		accepted_wrenches = "minecraft:redstone_torch,immersiveengineering:screwdriver,immersiveengineering:hammer"
 		#Enable detailed logging of the config values and resulting calculations in each mod feature config.
