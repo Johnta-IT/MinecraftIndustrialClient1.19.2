@@ -20,6 +20,7 @@ journeymap/
 libraries/
 local/
 localconfigs/
+defaultconfigs/
 logs/
 modernfix/
 resourcepacks/
